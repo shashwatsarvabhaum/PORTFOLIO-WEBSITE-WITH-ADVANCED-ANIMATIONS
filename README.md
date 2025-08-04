@@ -34,6 +34,10 @@ SEO optimization, accessibility considerations, and lazy loading of assets are a
 
 # OUTPUT
 
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/a927c928-a980-464f-9688-fab74665693c" />
+
+
+
 
 
 
